@@ -14,5 +14,3 @@ const Navbar = () => {
 }
 
 export default Navbar
-{/* <a href="/create">New Blog</a> */}
-// Using anchor tag will refresh the page and by using Link in react the page will not load
